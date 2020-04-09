@@ -157,7 +157,7 @@ form { margin-bottom: 30px; }
 	float: none;
 	width: 1220px;
 	margin: 0 auto;
-	background-color: #FFF;
+	background-color: transparent;
 	box-shadow: 0 0 10px rgba(0,0,0,0.1);
 	-moz-box-shadow: 0 0 10px rgba(0,0,0,0.1);
 	-webkit-box-shadow: 0 0 10px rgba(0,0,0,0.1);
@@ -692,7 +692,6 @@ html[xmlns] .slider-wrap {display: block;}
 	position: absolute;
 	z-index: 210;
 	line-height: 1.5;
-	background: #FFF;
 	border: 0;
 	top: 44px;
 	left: 0;
@@ -3403,7 +3402,7 @@ body.stretched .container-fullwidth .breadcrumb { right: 60px !important; }
 #content {
 	position: relative;
 	overflow: hidden;
-	background-color: #FFF;
+	
 }
 
 #content p { line-height: 1.8; }
@@ -11024,7 +11023,6 @@ form .col_five_sixth { margin-bottom: 25px; }
 #contact-form-overlay-mini {
 	position: relative;
 	max-width: 800px;
-	background-color: #FFF;
 	padding: 40px;
 	margin: 0 auto;
 	z-index: 10;
